@@ -13,3 +13,6 @@ IRP_tp/
 .vscode/
 .idea/
 *.sublime-*
+
+
+data/
