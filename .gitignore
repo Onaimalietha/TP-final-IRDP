@@ -14,4 +14,4 @@ IRP_tp/
 .idea/
 *.sublime-*
 
-data/cifar-10-python.tar.gz
+data/
